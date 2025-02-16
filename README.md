@@ -1,5 +1,5 @@
 # Currency-Convertor
-An app programmed in kotlin that converts currency fragments, landscapes, and dialog
+12 grade project, an app programmed in kotlin that converts currency fragments, landscapes, and dialog
 
 ## Overview
 
